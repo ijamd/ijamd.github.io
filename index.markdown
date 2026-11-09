@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## The Illinois Jewish Academics for Multiracial Democracy
+The Illinois Jewish Academics for Multiracial Democracy
 is an organization of Jewish academics, faculty, academic staff, graduate workers, postdocs, and workers in higher education. We come together around our broad and universal commitments to pluralistic democracy, freedom of speech and inquiry, and human rights. 
 
 All Jewish academics in Illinois who share our principles are welcome to join.
