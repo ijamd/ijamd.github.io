@@ -12,7 +12,7 @@ To join our mailing list and/or join our group, please fill out [our form](https
 
 ## Our Core Principles
 
-We are part of the [National Campus Jewish Alliance](https://www.nationalcampusjewishalliance.org/chapters), a coalition of organizations on campuses across the United States which formed to pursue these principles in light of the increasing pressure on freedom of speech on college campuses and increasing harassment and smearing of human rights and anti-war activists.
+We are part of the [National Campus Jewish Alliance](https://www.nationalcampusjewishalliance.org), a coalition of organizations on campuses across the United States which formed to pursue these principles in light of the increasing pressure on freedom of speech on college campuses and increasing harassment and smearing of human rights and anti-war activists.
 
 ### We affirm the diversity of Jewish people
 and reject claims that any one institution, ideology, political project, or organization speaks for all of us.
